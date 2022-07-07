@@ -1,6 +1,6 @@
 ### Hi I'm Shasha 👋
 
- 👩‍🎓 I am currently pursuing Master's degree in computer science at Northeastern University. <br />
+ 👩‍🎓 I am currently pursuing Master's degree in Computer Science at Northeastern University. <br />
  👯 I'm looking for internship opportunities to help me grow in the field to gain some mentorship from professionals in the field.<br />
  🎯 My further goal is to become work as a full time software engineer and build the future of the world using my engineering skill.<br />
  🌱 I’m currently learning Andriod Development and working on my app project.
