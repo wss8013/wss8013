@@ -4,6 +4,7 @@
 👯 I'm looking for internship opportunities to help me grow in the field to gain some mentorship from professionals in the field.<br/>
 🎯 My further goal is to become work as a full time software engineer and build the future of the world using my engineering skill.<br/>
 🌱 I’m currently learning Andriod Development and working on my app project.<br/>
+<img align="right" alt="Coding" width="400" src="https://c.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/wss8013@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="wss8013@gmail.com" height="30" width="40" /></a>
