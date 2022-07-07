@@ -1,15 +1,16 @@
 ### Hi there 👋
 
  :woman_student: I am currently pursuing Master's degree in computer science at Northeastern University. 
+ 👯 I'm looking for internship opportunities to help me grow in the field to gain some mentorship from professionals in the field.
 
 <!--
 **wss8013/wss8013** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- :woman_student: I am currently pursuing Master's degree in computer science at Northeastern University. 
+ 
 - 🌱 I’m currently learning ...
-- 👯 I'm looking for internship opportunities to help me grow in the field to gain some mentorship from professionals in the field,
+- 👯 I'm looking for internship opportunities to help me grow in the field to gain some mentorship from professionals in the field.
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
