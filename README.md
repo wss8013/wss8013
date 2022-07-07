@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+ :woman_student: I am currently pursuing Master's degree in computer science at Northeastern University. 
+
 <!--
 **wss8013/wss8013** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
