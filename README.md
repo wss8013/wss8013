@@ -1,6 +1,6 @@
 ### Hi there 👋
 
- :woman_student: I am currently pursuing Master's degree in computer science at Northeastern University. 
+ :woman_student: I am currently pursuing Master's degree in computer science at Northeastern University. <br />
  👯 I'm looking for internship opportunities to help me grow in the field to gain some mentorship from professionals in the field.
 
 <!--
