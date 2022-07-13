@@ -7,7 +7,7 @@
 <img align="right" alt="Coding" width="380" src="https://c.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/wss8013@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="wss8013" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/shashawangapril/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="wss8013" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
